@@ -1,0 +1,1 @@
+When a user clicks on the purchas button, it renders out "Something went wrong, please try again in the paragraph that has the id="error"
